@@ -1,6 +1,8 @@
 # dev_rest_api
 
 Chapter1: 
+
+
        1. Creating Virtual Environment
        2. Installation of Django
        3. Creating view 
